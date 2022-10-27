@@ -4,15 +4,57 @@ title: Experience
 permalink: /experience/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Work Experience
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## _06/2022 - 10/2022 - Piazza Blu² GmbH_
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+[E-Commerce agency focussed on headless cms][piazza-link]
 
+- Styling in Tailwind CSS
+- Widget development with craft.js
+- Authentication implementation with express.js
 
-[jekyll-organization]: https://github.com/jekyll
+## _12/2021 - 06/2022 - tecRacer Group_
+
+[AWS Premier Tier & Managed Services Partner Company][tecracer-link]
+
+- Migrating the JSF frontend part of an existing application to Angular 2 with new user interface.
+- Optimizing the current development state of a REACT app with AWS Severless backend / DynamoDB
+- Transfer of a mySQL database to a DynamoDB
+- Going live with an application and automating deployment
+- Customizations in AngularJS and Angular 2 applications
+- AWS Cloud Practitioner Essentails and Architecting on AWS (Course)
+
+## _05/2018 - 10/2020 - JMA Maschinendata GmbH_
+
+[Specialized ERP Solution on MS Dynamics Basis][jma-link]
+
+Business Management
+- Performance audit
+- Coaching / Workshops
+
+Project Management
+- goLive of Localization on the German Market
+- PO
+
+Marketing & Sales
+- Campain Management
+- Key Account Management
+
+[piazza-link]: https://piazzablu.com
+[tecracer-link]: https://tecracer.com
+[jma-link]: https://https://www.jma-dsm.de/de/
+
+---
+
+# Off-Work Experience
+
+_Courses_
+- Udemy
+- Coursera
+- Codecademy
+
+_Books_
+- CleanCode JavaScript
+
+_Hackathons_

@@ -4,15 +4,19 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is the a little story of how I became a developer...
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+As you may have seen this portfolio is a blog aswell. The Basis is made of a Jekyll Theme, customized to fit my needs. Feel free to have a look! [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+<p align="center">
+    The Page is still under construction! Please hang on!
+</p>
 
+<p align="center">
+  <img src="https://github.com/charisTheo/under-construction/blob/master/docs/under-construction.gif?raw=true" alt="Under construction gif animation"/>
+</p>
 
-[jekyll-organization]: https://github.com/jekyll
+You can find my Repositories at GitHub:
+[choatrick42][gh-link]
+
+[gh-link]: https://github.com/jekyll
