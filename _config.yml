@@ -21,7 +21,7 @@
 title: Patrick Parthen - Full Stack Developer / Projectmanager
 email: p.parthen@googlemail.com
 description: >- # this means to ignore newlines until "baseurl:"
-Personal Portfolio Blog, Patrick Parthen. Full Stack Developer. Projectmanager.
+  Personal Portfolio Blog, Patrick Parthen. Full Stack Developer. Projectmanager.
   JS. React. Angular. HTML. CSS. NEXTjs. ExpressJS.
   SQL. Kubernetes. AWS. Java. Python. Headless.
 baseurl: "" # the subpath of your site, e.g. /blog
