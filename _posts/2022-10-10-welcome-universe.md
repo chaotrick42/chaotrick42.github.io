@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to my Portfolio!"
-date:   2022-10-27 12:02:13 +0200
+date:   2022-10-10 12:02:13 +0200
 categories: portfolio update
 ---
 You’ll find this page because I finally made myself a `PORTFOLIO PAGE` , now that´s some news. Go ahead and take a look around, I hope to get some new pages and projects, out by end of November. I rebuilded a basic template, so most work was done by `jekyll`, the on e and only blog maker for dummies.
